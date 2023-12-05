@@ -119,18 +119,30 @@ Here is a sample of the usage. As you can see, it handles float and negative num
 
 #### Features :
 
-**Add** | **+** : Add the n-2 to the n-1.
+**Add** | **+** : Add the n-2 to the n-1. 
+
 **Substract** | **sub** | **-** : Substract the n-1 to the n-2
+
 **Multiply** | mul | **`*`** : Multiply the n-2 by the n-1.
+
 **Division** | **div** | **/** : Divide the n-2 digit by the n-1.
+
 **Modulo** | **m** | **%** : Modulo operation.
+
 **Power** | **^** | **``**``** : Power operation.
+
 **Quit** | **exit** | **q** : Quit the program.
+
 **sum** | **somme** : Add all the numbers in the stack.
+
 **dump** | **d** | **stack** : Print the stack in the terminal.
+
 **swap** : Swap the last numbers entered.
+
 **clear** | **drop** : Clear the stack, reset to 0.
+
 **dup** : Duplicate the last number entered.
+
 
 Arrow up and Arrow down are handled :)
 
