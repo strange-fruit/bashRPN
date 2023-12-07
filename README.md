@@ -43,7 +43,7 @@ Make sure the program is executable
 
 ### Installation
 
-You just need to install **bc**
+You just need to install **bc** and **figlet**
 
 ```bash
 sudo apt install bc
