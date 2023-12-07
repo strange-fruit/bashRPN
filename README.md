@@ -46,7 +46,7 @@ Make sure the program is executable
 You just need to install **bc** and **figlet**
 
 ```bash
-sudo apt install bc
+sudo apt install bc figlet
 ```
 
 
