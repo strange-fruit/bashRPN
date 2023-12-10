@@ -10,6 +10,4 @@
     <p>This repository has been moved. If you are not redirected, <a href="https://github.com/strange-fruit/RPN">click here</a>.</p>
 </body>
 </html>
- <script type="text/javascript">
-            window.location.href = "https://github.com/strange-fruit/RPN"
-        </script>
+ 
