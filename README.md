@@ -1,20 +1,3 @@
-
-
-<div align="center">
- 
-
-  <h3 align="center">BASH RPN Calculator</h3>
-
-  <p align="center">
-School project for my BSc
-    <br />
-    <br />
-:D
-  </p>
-</div>
-
-
-
 ## About The Project
 
 
