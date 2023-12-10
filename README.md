@@ -4,7 +4,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title> Repository Moved </title>
     <meta charset="UTF-8">
     <meta http-equiv="refresh" content="5;url=https://github.com/strange-fruit/RPN">
 </head>
